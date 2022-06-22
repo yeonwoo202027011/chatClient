@@ -1,0 +1,15 @@
+C:\Users\katta\source\repos\20220525\20220525\bin\Debug\net6.0\20220525.exe
+C:\Users\katta\source\repos\20220525\20220525\bin\Debug\net6.0\20220525.deps.json
+C:\Users\katta\source\repos\20220525\20220525\bin\Debug\net6.0\20220525.runtimeconfig.json
+C:\Users\katta\source\repos\20220525\20220525\bin\Debug\net6.0\20220525.dll
+C:\Users\katta\source\repos\20220525\20220525\bin\Debug\net6.0\20220525.pdb
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.csproj.AssemblyReference.cache
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.AssemblyInfoInputs.cache
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.AssemblyInfo.cs
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.csproj.CoreCompileInputs.cache
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.dll
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\refint\20220525.dll
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.pdb
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\20220525.genruntimeconfig.cache
+C:\Users\katta\source\repos\20220525\20220525\obj\Debug\net6.0\ref\20220525.dll
